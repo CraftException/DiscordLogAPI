@@ -1,7 +1,6 @@
 package DiscordLogAPI.Embed
 
 import DiscordLogAPI.Author
-import DiscordLogAPI.Embed.Embed
 import DiscordLogAPI.File
 import DiscordLogAPI.Message
 import java.util.*

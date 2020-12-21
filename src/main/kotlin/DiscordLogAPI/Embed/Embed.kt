@@ -1,8 +1,5 @@
 package DiscordLogAPI.Embed
 
-import DiscordLogAPI.Author
-import DiscordLogAPI.Embed.Embed
-
 class Embed(
     hexColor: String,
     title: String,

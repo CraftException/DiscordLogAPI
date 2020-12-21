@@ -25,9 +25,9 @@ object JDAAdapter {
                         Date.from(
                             message1.timeCreated.toLocalDate().atStartOfDay(ZoneId.systemDefault()).toInstant()
                         ),
-                        message1.getContentDisplay(),
-                        message1.getAuthor().isBot(),
-                        adaptAttachements(message1.getAttachments())
+                        message1.contentDisplay,
+                        message1.author.isBot,
+                        adaptAttachements(message1.attachments)
                     )
                 )
             } else {
