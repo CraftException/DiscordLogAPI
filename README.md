@@ -8,9 +8,9 @@ A Discord Log API, which adapt a list of Messages into a HTML file.
     - Adapter for JDA
     - Support for multiple Attachements
 
-## In Planung:
-    - Reaktionen auf Nachrichten
-    - Antworten auf Nachrichten
+## To-Do:
+    - Reactions from Messages
+    - Replys to Messages
 
 # How to Use:
     
