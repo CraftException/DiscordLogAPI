@@ -9,8 +9,8 @@ A Discord Log API, which adapt a list of Messages into a HTML file.
     - Support for multiple Attachements
 
 ## To-Do:
-    - Reaktionen auf Nachrichten
-    - Antworten auf Nachrichten
+    - Reactions from Messages
+    - Replys to Messages
 
 # How to Use:
     
